@@ -4,7 +4,8 @@
 
 ## Introduction
 
-This was a project designed using express.js and bootstrap
+This is a blog post website that can be used to make daily blog entries.
+This project was created using javascript, node.js, express.js and bootstrap.
 
 ## What I learned
 
@@ -23,18 +24,18 @@ Through this I was able to understand how express.js renders pages and how we ca
 
 ## Procedure to use this code
 
-1. **Fork a copy of the project**
+1. Fork a copy of the project
 
-2. **Clone a copy of the files**
+2. Clone a copy of the files
 
-3. **CD to the folder cd FOLDERNAME **
+3. CD to the folder cd FOLDERNAME
 
-4. **Run > npm install -g nodemon to install nodemod globally ** 
+4. Run > npm install -g nodemon to install nodemod globally
     
-5. **Run > npm install to install the project dependencies **
+5. Run > npm install to install the project dependencies
 
-6. **Run > nodemon app.js command to start the server**
+6. Run > nodemon app.js command to start the server
 
-7. **Visit localhost:3000 to view the blog on your local server**
+7. Visit localhost:3000 to view the blog on your local server
 
-8. **Visit localhost:3000/compose to create a new blog entry** 
+8. Visit localhost:3000/compose to create a new blog entry
