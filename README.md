@@ -8,7 +8,7 @@ This was a project designed using express.js and bootstrap
 
 ## What I learned
 
-This project was challenge to my Javascript and express.js knowledge. 
+This project was a challenge to my Javascript and express.js knowledge. 
 My goal was to create an interactive blog website that allows for easy navigation and links the various pages together.
 Through this I was able to understand how express.js renders pages and how we can use data to create dynamic displays and dynamic links.
 
