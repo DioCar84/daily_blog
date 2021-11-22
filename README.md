@@ -27,7 +27,14 @@ Through this I was able to understand how express.js renders pages and how we ca
 
 2. **Clone a copy of the files**
 
-3. **CD to the folder cd FOLDERNAME Run > 
-    npm install -g nodemon to install nodemod globally 
-    Run > npm install to install the project dependencies 
-    Run > npm start command to start the automation**
+3. **CD to the folder cd FOLDERNAME **
+
+4. **Run > npm install -g nodemon to install nodemod globally ** 
+    
+5. **Run > npm install to install the project dependencies **
+
+6. **Run > nodemon app.js command to start the server**
+
+7. **Visit localhost:3000 to view the blog on your local server**
+
+8. **Visit localhost:3000/compose to create a new blog entry** 
