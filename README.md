@@ -6,8 +6,6 @@
 
 This was a project designed using express.js and bootstrap
 
-You can visit the deployed app, at [https://diocar84.github.io/daily_blog/](https://diocar84.github.io/daily_blog/).
-
 ## What I learned
 
 This project was challenge to my Javascript and express.js knowledge. 
